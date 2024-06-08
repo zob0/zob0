@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zob0 (Božidar Kapetanov)
 - 👀 I’m interested in backend web development
 - 🌱 I’m currently learning ASP.NET
-- 📫 Email: bozidar.kapetanov02@gmail.com LinkedIn: https://www.linkedin.com/in/bo%C5%BEidar-kapetanov-5464612b3/
+- 📫 Email: bozidar.kapetanov02@gmail.com LinkedIn: www.linkedin.com/in/bozidar-kapetanov-5464612b3
 - ⚡ Fun fact: I love playing chess, minesweeper, tetris, sudoku and tabletop games, solving the Rubik's cube and I love animals.
